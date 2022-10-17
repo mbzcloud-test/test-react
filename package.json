@@ -1,7 +1,8 @@
 {
   "name": "test-react",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "dependencies": {
+    "@mbzcloud-test/test-package": "^1.2.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
